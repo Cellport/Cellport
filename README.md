@@ -19,7 +19,7 @@
 **Репозитории**
 |<span/>|
 |-----|
-|[Проекты Яндекс.Практикум](https://github.com/Cellport/Projects)|
+|[Проекты Яндекс.Практикум](https://github.com/Cellport/Portfolio/tree/main)|
 |[Дашборды на Dash (дополняется)](https://github.com/Cellport/Dash-apps)|
 
 **Связаться со мной**
